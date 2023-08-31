@@ -1,4 +1,4 @@
-<h1> Olá! Meu nome é Danielle, e eu sou uma desenvolvedora Full-Stack </h1>
+<h1> Olá! Meu nome é Danielle. </h1>
 
 <div align="center">
   <a href="https://github.com/DanielleSantosss">
