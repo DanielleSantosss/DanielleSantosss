@@ -1,4 +1,4 @@
-<h1> Olá! Meu nome é Danielle. </h1>
+<h1> Olá! Muito prazer, eu sou a Danielle. </h1>
 
 <div align="center">
   <a href="https://github.com/DanielleSantosss">
